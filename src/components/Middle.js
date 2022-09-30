@@ -16,7 +16,13 @@ const Middle = () => {
           >
             indian cuisine
           </h4>
-          <p style={{ fontSize: "15px", letterSpacing: "1px" }}>
+          <p
+            style={{
+              fontSize: "14px",
+              letterSpacing: "1px",
+              textAlign: "justify",
+            }}
+          >
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt.
           </p>
@@ -32,7 +38,13 @@ const Middle = () => {
           >
             american culsine
           </h4>
-          <p style={{ fontSize: "15px", letterSpacing: "1px" }}>
+          <p
+            style={{
+              fontSize: "14px",
+              letterSpacing: "1px",
+              textAlign: "justify",
+            }}
+          >
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
@@ -50,7 +62,13 @@ const Middle = () => {
           >
             chinese culsine
           </h4>
-          <p style={{ fontSize: "15px", letterSpacing: "1px" }}>
+          <p
+            style={{
+              fontSize: "14px",
+              letterSpacing: "1px",
+              textAlign: "justify",
+            }}
+          >
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt.
           </p>
